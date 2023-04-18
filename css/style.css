@@ -1,12 +1,26 @@
 body {
   background-color: black;
   height: 100vh;
+  color: white;
 }
 
 .container {
+  margin-top: -30px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100%;
+}
+
+.container img {
+  margin-top: -60px;
+}
+
+.portfolio-links {
+  text-decoration: none;
+  background: #a89048;
+  color: black;
+  padding: 5px;
+  border-radius: 10px;
 }
