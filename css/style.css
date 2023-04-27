@@ -17,6 +17,10 @@ body {
   margin-top: -60px;
 }
 
+.portfolio {
+  text-align: left;
+}
+
 .portfolio-links {
   margin-top: 10px;
 }
@@ -26,5 +30,9 @@ body {
   background: #a89048;
   color: black;
   padding: 5px;
-  border-radius: 10px;
+  border-radius: 5px;
+}
+
+.portfolio-text {
+  color: #fff;
 }
