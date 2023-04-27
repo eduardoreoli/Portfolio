@@ -17,6 +17,10 @@ body {
   margin-top: -60px;
 }
 
+.portfolio-links {
+  margin-top: 10px;
+}
+
 .portfolio-links a {
   text-decoration: none !important;
   background: #a89048;
